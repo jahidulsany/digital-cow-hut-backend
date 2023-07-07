@@ -2,7 +2,7 @@
   "name": "digital-cow-hut",
   "version": "1.0.0",
   "description": "The main focus of this assignment is to implement error handling, CRUD operations, pagination and filtering, transactions (including a simple transaction without a payment gateway), and additional routes as necessary.",
-  "main": "server.js",
+  "main": "src/server.ts",
   "engines": {
     "node": ">=16"
   },
